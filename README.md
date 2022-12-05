@@ -100,6 +100,6 @@ module.exports = {
 
 # verified contract
 
-click here to confirm [Verified contract](https://goerli-optimism.etherscan.io/address/0x92913451461F4Bb0Bc3737D6fB14d15035C6F1Dd#code)
+click here to confirm [Verified contract](https://goerli-optimism.etherscan.io/address/0xA59aed175E79FCb33e8d868290F39e09B39670dF#code)
 
 

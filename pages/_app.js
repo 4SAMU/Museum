@@ -86,7 +86,7 @@ function MyApp({ Component, pageProps }) {
             <option value="420">Optimism Goerli</option>
           </select>
           <a
-            href="https://goerli-optimism.etherscan.io/address/0x0c93626928A638fA995E3DE9bD7Ed5765Ab08F0b#code"
+            href="https://goerli-optimism.etherscan.io/address/0xA59aed175E79FCb33e8d868290F39e09B39670dF#code"
             target="_blank"
             rel="noreferrer"
             className="ml-10  bg-pink-500 text-white font-bold py-2 px-12 rounded"
